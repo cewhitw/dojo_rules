@@ -1,5 +1,5 @@
 <html>
-<h1> Hello I am a super human intent onm destroying the universe whahahahahahah jk the universe is amazing!!!!!!!!!!!</h1>
+<h1> Hello I am a super human intent on destroying the universe whahahahahahah jk the universe is amazing!!!!!!!!!!!</h1>
 <h2>javascript, and css are the bomb.......fantasmical.....ba dum tsh<h2>
 <ul>
 <li>*javascript</li>
